@@ -329,7 +329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pieza: {fileID: 7704494314881158052, guid: 46e70ae2a21225a409b9bf1acfd02b31, type: 3}
-  totalpiezas: 500
+  totalpiezas: 250
 --- !u!4 &1912920570
 Transform:
   m_ObjectHideFlags: 0
@@ -338,7 +338,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912920568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.383846, y: 3.2992768, z: 0.032019716}
+  m_LocalPosition: {x: -2.383846, y: 3.2992768, z: 0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
